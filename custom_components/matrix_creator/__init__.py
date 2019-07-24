@@ -1,0 +1,1 @@
+"""The matrix creator component."""

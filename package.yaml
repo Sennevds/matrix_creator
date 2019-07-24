@@ -1,0 +1,14 @@
+
+name: sensor.matrix_creator
+description: Matrix Creator component for Home Assistant
+type: component
+keywords:
+  - sensor
+  - matrix_creator
+  - temperature
+  - humidity
+  - uv
+  - presure
+license: MIT
+files:
+  - custom_components/matrix_creator/sensor.py

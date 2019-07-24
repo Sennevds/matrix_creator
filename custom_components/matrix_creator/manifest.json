@@ -1,0 +1,10 @@
+{
+    "domain": "matrixcreator",
+    "name": "Matrix Creator",
+    "documentation": "https://www.home-assistant.io/components/matrixcreator",
+    "requirements": [
+      "matrix-lite==0.0.3"
+    ],
+    "dependencies": [],
+    "codeowners": []
+  }
