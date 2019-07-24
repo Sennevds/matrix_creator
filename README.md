@@ -10,10 +10,10 @@ Custom component for Home Assistant using the Matrix Creator
 This project is based on the official [Sense HAT](https://www.home-assistant.io/components/sensehat) component for Home Assistant
 Use the [Matrix Creator](https://www.matrix.one/products/creator) sensors in Home Assistant
 Currently only following sensors are supported:
-    - Humidity
-    - Temperature
-    - Pressure
-    - UV
+- Humidity
+- Temperature
+- Pressure
+- UV
 
 To get started put `/custom_components/matrix_creator/` here:
 `<config directory>/custom_components/matrix_creator/`
@@ -31,7 +31,7 @@ sensor:
 **Configuration variables:**
 
 Field | Value | Necessity | description
-:--- | :---
+:--- | :--- | :--- | :---
 **platform** | matrixcreator | Required
 **display_options** | temperature, humidity, pressure, uv | Required | The sensors you want to add
 **is_hat_attached** | true | Optional | Is the HAT directly connected to the RPI
